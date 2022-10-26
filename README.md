@@ -3,6 +3,13 @@
 
 - 📫 Como me encontrar **cleitonrmacedo@gmail.com** ou no <a href="https://linkedin.com/in/cleiton ribeiro de macedo" target="blank">LinkedIn</a>
 
+Formado em Administração e estagiando em consultoria empresarial, decidi mudar de carreira em 2021. Buscando um futuro imerso na tecnologia, minha paixão, iniciei o caminho do desenvolvimento web pela Trybe!
+
+Focando em Hard Skills e sem esquecer das Soft Skills, estou me aperfeiçoando a cada dia para me tornar um Desenvolvedor de Software Full Stack! Tenho muita vontade de aprender o que for necessário para se tornar um grande profissional na área.
+
+Concluí os Fundamentos da Web e Front End! Atualmente estou finalizando o módulo de Back End.
+Já passei por tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, Docker, React.js, Redux, Express, MySQL (CRUD), Sequelize, MongoDB, Mongoose, Jest (TDD), Mocha. E também por arquiteturas como Rest e SOLID.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
