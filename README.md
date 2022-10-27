@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Cleiton</h1>
 <h3 align="center">Formado em Administração e em transição de carreira para o mundo da tecnologia pela Trybe</h3>
 
-- 📫 Como me encontrar **cleitonrmacedo@gmail.com** ou no <a href="https://linkedin.com/in/cleitonrmacedo/" target="blank">LinkedIn</a>
+- 📫 Como me encontrar **cleitonrmacedo@gmail.com** ou no <a href="https://linkedin.com/in/cleitonrmacedo/" target="_blank">LinkedIn</a>
 
 Formado em Administração e estagiando em consultoria empresarial, decidi mudar de carreira em 2021. Buscando um futuro imerso na tecnologia, minha paixão, iniciei o caminho do desenvolvimento web pela Trybe!
 
