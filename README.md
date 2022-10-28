@@ -61,3 +61,10 @@ Já passei por tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, Dock
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+<div>
+  <a href="https://github.com/Cleitonsub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitonsub&show_icons=true&theme=dark&include_all_commits=true&count_private&locale=en" alt="cleitonsub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleitonsub&show_icons=true&theme=dark&include_all_commits=true&count_private&locale=en&layout=compact" alt="cleitonsub" />
+</div>
+
